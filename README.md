@@ -1,6 +1,6 @@
 # MyWeb
 ### 运行操作：
-- 1.build path 添加jre和apache的运行环境
+- 1.eclipse导入项目（General==》existing projects into workspace）后build path 添加jre和apache的运行环境
 - 2.导入数据库并修改数据库连接配置
 - 3.WEB-INF下新建目录lib添加额外jar包。没有自动添加的话build path：(链接 https://mvnrepository.com)
 * 文件上传包：commons-fileupload和commons-io
